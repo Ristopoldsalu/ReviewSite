@@ -1,0 +1,23 @@
+#heading {
+	
+  	height:10%;
+  	width:100%;
+  	border: 1px;
+  	padding: 10px;
+	}
+
+#menu {
+	width:30%;
+  	height:90%;
+  	float:left;
+  	border: 1px;
+  	background-color:blue;
+	}
+
+#content {
+	width:70%;
+  	height:80%;
+  	float:left;
+  	border: 1px;
+  	background-color:red;
+	}
